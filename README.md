@@ -1,0 +1,2 @@
+# cloudstacking-deploybase
+Static guides
